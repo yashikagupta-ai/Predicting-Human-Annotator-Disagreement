@@ -26,8 +26,7 @@ Our model asks: *"What will 50 different humans think this image is, and how muc
 | **NB1** | Data Loading & Exploration — downloads datasets, creates splits, computes entropy, generates visualizations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-UrDjfEyu9ErNxMCb40zv_BsUppp1Wy8?usp=sharing) |
 | **NB2** | Model Training — ResNet-18 adapted for 32×32 images, pretraining + fine-tuning with KL, JSD, and Custom loss | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jDG3mZt8iR2f975u5ZcZqK30nhACRo5W?usp=sharing) |
 | **NB3** | Evaluation & Metrics — inference, KL/JSD/Cosine, entropy correlation, Precision@K, comparison plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1biDtTq-6WW0rJ7cVr8yY5HLXXc1QqLqL?usp=sharing) |
-| **NB4** | Explainability & Robustness — Grad-CAM, failure cases, manual inspection, corruption robustness | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yxMBgTCjg2YOEFy3jdSvf37CEyXtMB4R?usp=sharing) |
-
+| **NB4** | Explainability & Robustness — Grad-CAM, failure cases, manual inspection, corruption robustness | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/REPLACE_WITH_YOUR_NB4_LINK_HERE?usp=sharing) |
 ---
 
 ## Datasets

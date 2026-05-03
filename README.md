@@ -2,7 +2,7 @@
 
 **3rd Year Deep Neural Networks Course Project**
 
-*Learning what makes images inherently ambiguous*
+*Objective: Learning what makes images inherently ambiguous*
 
 Based on: Peterson et al., ICCV 2019 — *"Human Uncertainty Makes Classification More Robust"*
 
@@ -12,6 +12,7 @@ Based on: Peterson et al., ICCV 2019 — *"Human Uncertainty Makes Classificatio
 
 This project builds a deep neural network that predicts the **full distribution of human annotator labels** for CIFAR-10 images, rather than just a single hard label. The model outputs a 10-class probability distribution representing how 50+ humans would vote on each image.
 
+The core difference is this - 
 A standard classifier asks: *"What is this image?"*  
 Our model asks: *"What will 50 different humans think this image is, and how much will they disagree?"*
 
@@ -89,7 +90,7 @@ Our model asks: *"What will 50 different humans think this image is, and how muc
 
 | Name |
 |------|
-| Chalasani Manogna |
+| Manogna Chalasani |
 | Tanvi Borkar |
 | Yashika Gupta |
 | Ishani Singh |

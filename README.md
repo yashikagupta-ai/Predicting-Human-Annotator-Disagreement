@@ -80,14 +80,12 @@ Our model asks: *"What will 50 different humans think this image is, and how muc
 
 ## Repository Structure
 
----
-cifar10h_project/
-├── data/ # CIFAR-10 and CIFAR-10H files
-├── checkpoints/ # Saved model weights (*.pth)
-├── results/ # Plots, evaluation results
-│ ├── inference_predictions/
-│ └── explainability/ # Grad-CAM, failure cases
-└── notebooks/ # NB1, NB2, NB3, NB4
+- `cifar10h_project/data/` — CIFAR-10 and CIFAR-10H files
+- `cifar10h_project/checkpoints/` — Saved model weights (*.pth)
+- `cifar10h_project/results/` — Plots, evaluation results
+- `cifar10h_project/results/inference_predictions/` — Cached model predictions
+- `cifar10h_project/results/explainability/` — Grad-CAM, failure cases
+- `cifar10h_project/notebooks/` — NB1, NB2, NB3, NB4
 ## Team
 
 | Name |
